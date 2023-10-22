@@ -1,0 +1,26 @@
+{
+  "name": "music-player-api",
+  "version": "1.0.0",
+  "description": "api for music player app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newVoid2/music-player-api.git"
+  },
+  "author": "Richard Kerr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newVoid2/music-player-api/issues"
+  },
+  "homepage": "https://github.com/newVoid2/music-player-api#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
